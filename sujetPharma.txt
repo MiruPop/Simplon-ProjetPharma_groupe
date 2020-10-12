@@ -1,0 +1,21 @@
+Projet pharma (projet de groupe)
+
+Objectif :  la création d'un programme d'analyse des tendances.
+exemple: maux de tête, 3. Pression élevée, 10
+bêta-test : uniquement lire les données d’un fichier.
+
+Cahier des charges:
+identifier les bugs et les corriger
+retirer les commentaires superflus
+décomposer le code en créant de nouvelles classes ou en déplaçant des fonctionnalités dans leurs propres méthodes. (exemple: partie SymptomReader) 
+solution fonctionnelle
+fichier results.out comprenant les symptômes dans l’ordre alphabétique et les décomptes
+code en anglais
+code conforme aux standards de développement
+utiliser GitFlow ou Drive
+Livrables
+Lien vers le code complété sur GitHub ou sur le drive .
+Cela doit inclure :
+le nouveau fichier que vous avez ajouté, plus les modifications aux fichiers existants ;
+le fichier results.out comprenant les symptômes dans l’ordre alphabétique et les décomptes.
+présentation : décisions de design + vue d’ensemble de l’organisation du code, et contenant tout ce qu’elle vous a demandé dans son mail.
